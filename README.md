@@ -1,5 +1,5 @@
 # What is emily_smith-SDK?
-Emily_smith-SDK is an SDK for [The One API](https://the-one-api.dev). The One API is an open-source API for Lord of The Rings data. 
+Emily_Smith-SDK is an SDK for [The One API](https://the-one-api.dev). The One API is an open-source API for Lord of The Rings data. 
 Data for books, chapters, characters, movies, and quotes are available.
 
 # Prerequisites
